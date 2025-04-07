@@ -12,15 +12,6 @@
 
 <table>
     <tr>
-    觉得好的话就点点star吧
-
-    My E-Mail：eeee2013eeee@gmail.com (不怎么看~~~)
-    </tr>
-    </tr>
-</table>
-
-<table>
-    <tr>
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eeeeeeeeee-code&theme=github_dark" align="right" /></td>
     </tr>
 </table>
@@ -32,3 +23,7 @@
     <td>位访客，感谢您的关注和支持~😍</td>
   </tr>
 </table>
+
+- 觉得好的话就点点star吧
+
+- My E-Mail：eeee2013eeee@gmail.com (不怎么看~~~)
